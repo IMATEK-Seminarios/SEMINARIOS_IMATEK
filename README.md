@@ -16,14 +16,21 @@ Acesse toda a programação detalhada (conteúdos, palestrantes etc.) em .pdf ne
 > Inscrições abertas. Preencha este o formulário [aqui](https://forms.gle/8U8hfgFYu36RaHBf7).
 
 **Palestra/Workshop (teórico-prático): Reabilitação de pacientes hospitalizados: recursos terapêuticos.**
-> 29/04 – 11h (Brasil)
+> 29/04 – 11h (Brasil) - *Aguarde para inscrições.*
+
+**Palestra/Workshop (teórico): 6 metas internacionais de segurança do paciente (enfoque na administração de medicamentos).**
+> 08/05 - 11h (Brasil) - *Aguarde para inscrições.*
 
 **Workshop: Atualização das Diretrizes para Prevenção e Tratamento de Doenças Crônicas Não Transmissíveis: Hipertensão Arterial e Diabetes Mellitus.**
-> 14/05 - 11h30 às 13h00 (Brasil)
+> 14/05 - 11h30 às 13h00 (Brasil) - *Aguarde para inscrições.*
 
 **Palestra: Hipertensão e Diabetes: a importância da prevenção, cuidado e tratamento.**
-> 23/05 - 09h30 às 11h00 (Brasil)
+> 23/05 - 09h30 às 11h00 (Brasil) - *Aguarde para inscrições.*
 
 **Palestra: Uso Racional de Medicamentos.**
-> 03/06 - 11h30 (Brasil)
+> 03/06 - 11h30 (Brasil) - *Aguarde para inscrições.*
+
+**Palestra/Workshop (teórico): Biossegurança e qualidade em laboratório clínico.**
+> 12/06 - 11h (Brasil) - *Aguarde para inscrições.*
+
 
