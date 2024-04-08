@@ -11,12 +11,11 @@ Acesse toda a programação detalhada (conteúdos, palestrantes etc.) em .pdf ne
 <br>
 <br>
 
-**Palestra/Workshop (teórico): Aspectos Preventivos da Síndrome da Imobilidade.**
-> 15/04 – 11h (Brasil)
-> Inscrições abertas. Preencha este o formulário [aqui](https://forms.gle/8U8hfgFYu36RaHBf7).
-
-**Palestra/Workshop (teórico-prático): Reabilitação de pacientes hospitalizados: recursos terapêuticos.**
-> 29/04 – 11h (Brasil) - *Aguarde para inscrições.*
+**Palestra (teórica): Síndrome do Imobilismo e Mobilização Precoce.**
+> 15/04 – 11h (Brasil) | Inscrições abertas na IMATEK.
+ 
+**Palestra/Workshop (teórico-prático): Aspectos Preventivos da Síndrome da Imobilidade.**
+> 29/04 – 11h (Brasil) | Inscrições abertas na IMATEK.
 
 **Palestra/Workshop (teórico): 6 metas internacionais de segurança do paciente (enfoque na administração de medicamentos).**
 > 08/05 - 11h (Brasil) - *Aguarde para inscrições.*
