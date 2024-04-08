@@ -12,10 +12,10 @@ Acesse toda a programação detalhada (conteúdos, palestrantes etc.) em .pdf ne
 <br>
 
 **Palestra (teórica): Síndrome do Imobilismo e Mobilização Precoce.**
-> 15/04 – 11h (Brasil) | Inscrições abertas na IMATEK.
+> 15/04 – 11h (Brasil) | **As inscrições abertas. As inscrições serão feitas pela IMATEK.**
  
 **Palestra/Workshop (teórico-prático): Aspectos Preventivos da Síndrome da Imobilidade.**
-> 29/04 – 11h (Brasil) | Inscrições abertas na IMATEK.
+> 29/04 – 11h (Brasil) | **As inscrições abertas. As inscrições serão feitas pela IMATEK.**
 
 **Palestra/Workshop (teórico): 6 metas internacionais de segurança do paciente (enfoque na administração de medicamentos).**
 > 08/05 - 11h (Brasil) - *Aguarde para inscrições.*
