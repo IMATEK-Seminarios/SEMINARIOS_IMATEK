@@ -12,10 +12,48 @@ Acesse toda a programação detalhada (conteúdos, palestrantes etc.) em .pdf ne
 <br>
 
 **Palestra (teórica): Síndrome do Imobilismo e Mobilização Precoce.**
-> 15/04 – 11h (Brasil) | **As inscrições abertas. As inscrições serão feitas pela IMATEK.**
- 
+> 15/04 – 11h (Brasil) | **As inscrições abertas. As inscrições serão feitas pela IMATEK.** 
+> Acesse aqui a [webconferência](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmEwYjk5M2UtNTZmOS00Y2UyLTllMTQtNTJhN2E4MTdmNGQ4%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%226900090c-c9ab-455a-a0e2-0ecd47e3d1e4%22%7d)
+
+<br>
+
+> <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/images/Prof.%20Bruno.jpg?raw=true" width=160, align="left">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 **Palestra/Workshop (teórico-prático): Aspectos Preventivos da Síndrome da Imobilidade.**
 > 29/04 – 11h (Brasil) | **As inscrições abertas. As inscrições serão feitas pela IMATEK.**
+> Acesse aqui a [webconferência](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDk5N2M2NzYtYzEyMS00ZThiLWI4NjMtNDQxYzg4YWJkNzk5%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%226900090c-c9ab-455a-a0e2-0ecd47e3d1e4%22%7d)
+
+<br>
+
+> <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/images/Profa.%20Susi.jpg?raw=true" width=160, align="left">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 **Palestra/Workshop (teórico): 6 metas internacionais de segurança do paciente (enfoque na administração de medicamentos).**
 > 08/05 - 11h (Brasil) - *Aguarde para inscrições.*
