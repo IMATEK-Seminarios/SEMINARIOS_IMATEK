@@ -17,7 +17,7 @@ Acesse toda a programação detalhada (conteúdos, palestrantes etc.) em .pdf ne
 
 <br>
 
-> <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/images/Prof.%20Bruno.jpg?raw=true" width=160, align="left">
+> <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240415_fotos_profBruno/Chamada.png?raw=true" width=560, align="left">
 
 <br>
 <br>
@@ -30,6 +30,12 @@ Acesse toda a programação detalhada (conteúdos, palestrantes etc.) em .pdf ne
 <br>
 <br>
 <br>
+<br>
+<br>
+
+> [Materiais da Palestra](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240415_fotos_profBruno") |
+> [Galeria de Fotos](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240415_materiais_profBruno")
+
 <br>
 <br>
 
