@@ -60,10 +60,15 @@ Acesse toda a programação detalhada (conteúdos, palestrantes etc.) em .pdf ne
 <br>
 <br>
 <br>
+<br>
+<br>
 
 > [Materiais da Palestra](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240429_profaSusi) |
 > [Galeria de Fotos](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240429_profaSusi_fotos) |
 > [Vídeos de Práticas de Fisio Complementares](https://drive.google.com/drive/folders/1-CsaZ2N0z3Sr6vqC_r56SqPViuW4jLsq?usp=sharing)
+
+<br>
+<br> 
 
 **Palestra/Workshop (teórico): 6 metas internacionais de segurança do paciente (enfoque na administração de medicamentos).**
 > 08/05 - 11h (Brasil) -  **As inscrições abertas. As inscrições serão feitas pela IMATEK.**
