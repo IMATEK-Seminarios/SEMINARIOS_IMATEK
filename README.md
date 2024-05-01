@@ -33,8 +33,8 @@ Acesse toda a programação detalhada (conteúdos, palestrantes etc.) em .pdf ne
 <br>
 <br>
 
-> [Materiais da Palestra](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240415_fotos_profBruno") |
-> [Galeria de Fotos](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240415_materiais_profBruno")
+> [Materiais da Palestra](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240415_fotos_profBruno) |
+> [Galeria de Fotos](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240415_materiais_profBruno)
 
 <br>
 <br>
@@ -60,6 +60,10 @@ Acesse toda a programação detalhada (conteúdos, palestrantes etc.) em .pdf ne
 <br>
 <br>
 <br>
+
+> [Materiais da Palestra](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240429_fotos_profSusi) |
+> [Galeria de Fotos](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240429_materiais_profSusi) |
+> [Vídeos de Práticas de Fisio Complementares](https://drive.google.com/drive/folders/1-CsaZ2N0z3Sr6vqC_r56SqPViuW4jLsq?usp=sharing)
 
 **Palestra/Workshop (teórico): 6 metas internacionais de segurança do paciente (enfoque na administração de medicamentos).**
 > 08/05 - 11h (Brasil) - *Aguarde para inscrições.*
