@@ -45,7 +45,7 @@ Acesse toda a programação detalhada (conteúdos, palestrantes etc.) em .pdf ne
 
 <br>
 
-> <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/images/Profa.%20Susi.jpg?raw=true" width=160, align="left">
+> <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240429_profaSusi_fotos/chamada.png?raw=true" width=560, align="left">
 
 <br>
 <br>
@@ -61,15 +61,15 @@ Acesse toda a programação detalhada (conteúdos, palestrantes etc.) em .pdf ne
 <br>
 <br>
 
-> [Materiais da Palestra](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240429_fotos_profSusi) |
-> [Galeria de Fotos](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240429_materiais_profSusi) |
+> [Materiais da Palestra](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240429_profaSusi) |
+> [Galeria de Fotos](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240429_profaSusi_fotos) |
 > [Vídeos de Práticas de Fisio Complementares](https://drive.google.com/drive/folders/1-CsaZ2N0z3Sr6vqC_r56SqPViuW4jLsq?usp=sharing)
 
 **Palestra/Workshop (teórico): 6 metas internacionais de segurança do paciente (enfoque na administração de medicamentos).**
-> 08/05 - 11h (Brasil) - *Aguarde para inscrições.*
+> 08/05 - 11h (Brasil) -  **As inscrições abertas. As inscrições serão feitas pela IMATEK.**
 
 **Workshop: Atualização das Diretrizes para Prevenção e Tratamento de Doenças Crônicas Não Transmissíveis: Hipertensão Arterial e Diabetes Mellitus.**
-> 14/05 - 11h30 às 13h00 (Brasil) - *Aguarde para inscrições.*
+> 14/05 - 11h30 às 13h00 (Brasil) -  **As inscrições abertas. As inscrições serão feitas pela IMATEK.**
 
 **Palestra: Hipertensão e Diabetes: a importância da prevenção, cuidado e tratamento.**
 > 23/05 - 09h30 às 11h00 (Brasil) - *Aguarde para inscrições.*
