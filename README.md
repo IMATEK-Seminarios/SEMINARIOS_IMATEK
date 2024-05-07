@@ -72,6 +72,21 @@ Acesse toda a programação detalhada (conteúdos, palestrantes etc.) em .pdf ne
 
 **Palestra/Workshop (teórico): 6 metas internacionais de segurança do paciente (enfoque na administração de medicamentos).**
 > 08/05 - 11h (Brasil) -  **As inscrições abertas. As inscrições serão feitas pela IMATEK.**
+>
+> Acesse aqui a [webconferência](https://einstein.zoom.us/j/86020041166) da *Profa Rafaela Vilela Alves dos Santos*.
+
+> Objetivos de aprendizagem:
+
+>> - Compreender as metas internacionais de saúde
+
+>> - Identificar o processo de acesso e administração dos medicamentos
+
+>> - Aplicar conhecimento no game.
+
+>> Acesse aqui a [apresentação | .pdf](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240508_profa_Rafaela/Aula%2008.05.24_IMATEK_Metas%20Internacionais%20e%20processo%20de%20administra%C3%A7%C3%A3o%20de%20medicamentos.pdf) da palestra.
+
+<br>
+<br>
 
 **Workshop: Atualização das Diretrizes para Prevenção e Tratamento de Doenças Crônicas Não Transmissíveis: Hipertensão Arterial e Diabetes Mellitus.**
 > 14/05 - 11h30 às 13h00 (Brasil) -  **As inscrições abertas. As inscrições serão feitas pela IMATEK.**
