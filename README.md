@@ -91,6 +91,36 @@ Acesse toda a programação detalhada (conteúdos, palestrantes etc.) em .pdf ne
 **Workshop: Atualização das Diretrizes para Prevenção e Tratamento de Doenças Crônicas Não Transmissíveis: Hipertensão Arterial e Diabetes Mellitus.**
 > 14/05 - 11h30 às 13h00 (Brasil) -  **As inscrições abertas. As inscrições serão feitas pela IMATEK.**
 
+> Acesse aqui a [webconferência](http://microsoft.com/l/meetup-join/19:meeting_YzUxN2E5ZmItMGI3ZS00NzZkLTk3YWItYWZhYjAxMWNiMzNm@thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%2228f4b02a-282a-47ff-bfc4-cfbf8f9e4978%22%7d&anon=true&deeplinkId=50bd9ff6-f48f-423f-8a70-b5bf7637bf8c&launchAgent=join_launcher&type=meetup-join&directDl=true&msLaunch=true&enableMobilePage=true&fqdn=teams.microsoft.com)
+<br>
+
+> <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240514_profas_AnaPaula_e_Renata/QR%20code%20Workshop.png?raw=true" width=220, align="left">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+> [Materiais da Palestra](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240514_profas_AnaPaula_e_Renata) |
+> [Galeria de Fotos](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240514_profas_AnaPaula_e_Renata_fotos)
+
+<br>
+<br>
+
+
 **Palestra: Hipertensão e Diabetes: a importância da prevenção, cuidado e tratamento.**
 > 23/05 - 09h30 às 11h00 (Brasil) - *Aguarde para inscrições.*
 
