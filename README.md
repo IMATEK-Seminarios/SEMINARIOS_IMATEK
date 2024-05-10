@@ -115,6 +115,7 @@ Acesse toda a programação detalhada (conteúdos, palestrantes etc.) em .pdf ne
 <br>
 
 > [Materiais da Palestra](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240514_profas_AnaPaula_e_Renata) |
+> [Material Complementar: Plan Dant](Plano Dant: https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/doencas-cronicas-nao-transmissiveis-dcnt/09-plano-de-dant-2022_2030.pdf)
 > [Galeria de Fotos](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240514_profas_AnaPaula_e_Renata_fotos)
 
 <br>
