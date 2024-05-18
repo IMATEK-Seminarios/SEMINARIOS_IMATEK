@@ -94,7 +94,7 @@ Acesse toda a programação detalhada (conteúdos, palestrantes etc.) em .pdf ne
 > Acesse aqui a [webconferência](http://microsoft.com/l/meetup-join/19:meeting_YzUxN2E5ZmItMGI3ZS00NzZkLTk3YWItYWZhYjAxMWNiMzNm@thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%2228f4b02a-282a-47ff-bfc4-cfbf8f9e4978%22%7d&anon=true&deeplinkId=50bd9ff6-f48f-423f-8a70-b5bf7637bf8c&launchAgent=join_launcher&type=meetup-join&directDl=true&msLaunch=true&enableMobilePage=true&fqdn=teams.microsoft.com)
 <br>
 
-> <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240514_profas_AnaPaula_e_Renata/QR%20code%20Workshop2.png?raw=true" width=220, align="left">
+> <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240514_profas_AnaPaula_e_Renata/QR%20code%20Workshop2.png?raw=true" width=560, align="left">
 
 <br>
 <br>
