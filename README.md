@@ -155,9 +155,37 @@ Acesse toda a programação detalhada (conteúdos, palestrantes etc.) em .pdf ne
 <br>
 
 **Palestra: Uso Racional de Medicamentos.**
-> 03/06 - 11h30 (Brasil) - *Aguarde para inscrições.*
+> 03/06 - 11h30 (Brasil) 
+
+> Acesse aqui a [webconferência]() (somente online), da *Profa Dra. Amouni Mohmoud Mourad*.
+
+> Objetivos da Aprendizagem:
+
+>> - Conceito;
+>> - Cenário mundial;
+>> - Alguns tipos comuns de uso irracional de medicamentos;
+>> - Automedicação;
+>> - Consequências do uso inadequado de medicamentos.
+
+> [Materiais da Palestra](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240603_profaAmouni) |
+> [Galeria de Fotos](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240603_profaAmouni_fotos)
+
+<br>
+<br>
 
 **Palestra/Workshop (teórico): Biossegurança e qualidade em laboratório clínico.**
-> 12/06 - 11h (Brasil) - *Aguarde para inscrições.*
+> 12/06 - 11h (Brasil)
 
+> Acesse aqui a [webconferência](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzNjYTZiMDktMTI4NC00NzU4LTlkZTEtZWYxMmJkMTgwMjEy%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%22e7fc012e-6f57-4879-9416-93179af90e74%22%7d) (somente online), da *Profa Isabel Cristina C. Araujo*.
 
+> Objetivos de aprendizagem:
+
+>> - Biossegurança: Prevenção e Controle (Perigo e Risco), Níveis de Risco em Laboratório, Barreiras primárias e secundárias (EPI e EPC), Descarte de Resíduos em Serviços de Saúde
+
+>> - Controle de Qualidade em Laboratório Clínico: Confiabilidade de testes e correção de erros, Acreditações, Controle de Qualidade Interno e Externo
+
+> [Materiais da Palestra](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240612_profa_Isabel) |
+> [Galeria de Fotos](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Palestra_20240612_profa_Isabel_fotos)
+
+<br>
+<br>
