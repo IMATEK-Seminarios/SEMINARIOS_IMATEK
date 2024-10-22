@@ -1,6 +1,22 @@
 <br>
 
-![image](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/assets/58958893/a7477527-c276-4bca-92a3-5671168091ec)
+<p>
+  <img src="http://meusite.mackenzie.br/rogerio/mackenzie_logo/UPM.2_horizontal_vermelho.jpg" width="40%" align="right"/>
+  <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/images/logo_IMATEK_2.png?raw=true" width="18%" align="left"/>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p>
+  <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/images/seminarios_title.png" width="80%" align="center"/>
+</p>
 
 <br>
 
