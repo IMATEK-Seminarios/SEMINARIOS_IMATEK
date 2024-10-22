@@ -4,6 +4,36 @@
 
 <br>
 
+## Programação 2º Semestre 2024
+
+<br>
+<br>
+
+**WORKSHOP: Aproveitamento integral dos alimentos: como manter uma dieta balanceada com alimentos acessíveis**
+> **Público alvo: ALUNOS**
+> 05/11 – 11h (Brasil)  
+> Aguarde aqui o link da [webconferência]
+
+<br>
+
+**PALESTRA: Relato de Experiência : Desenvolvendo e implementando intervenções nutricionais em nível comunitário.**
+> **Público alvo: PROFESSORES**
+> 13/11 – 11h (Brasil)  
+> Aguarde aqui o link da [webconferência]
+
+<br>
+
+**MINI CURSO (online assíncrono): Fisioterapia para pacientes com doenças crônicas (Ex. Hipertensão e Diabetes) em contextos de recursos limitados**
+> **Público alvo: PROFESSORES e ALUNOS**
+> Disponível a partir de 31/10   
+> Aguarde aqui o link da [acessar os materiais] **(slides, áudios e vídeos)**
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Programação 1º Semestre 2024
 
 Acesse toda a programação detalhada (conteúdos, palestrantes etc.) em .pdf neste [link](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Atividades_IMATEK_1.pdf). 
