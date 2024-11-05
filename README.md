@@ -27,8 +27,9 @@
 
 **WORKSHOP: Aproveitamento integral dos alimentos: como manter uma dieta balanceada com alimentos acessíveis**
 > **Público alvo: ALUNOS**
-> 05/11 – 11h (Brasil)  
-> Aguarde aqui o link da [webconferência]
+> 05/11 – 11h (Brasil)
+> Professores: **Profa Ana Cristina M. Moreira Cabral e Profa Karina Dantas Coelho**
+> Aguarde aqui o link da [webconferência](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjAxZDcxNGUtMzE4Yi00NzhjLTliNTktZTQxZWYzMzMwOWFl%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%2228f4b02a-282a-47ff-bfc4-cfbf8f9e4978%22%7d)
 
 <br>
 
