@@ -33,10 +33,17 @@
 
 <br>
 
+<p>
+    <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/images/20241105_fig3.jpeg?raw=true" width="20%" align="center"/></p>
+  <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/images/20241105_fig1.jpeg?raw=true" width="40%" align="center"/>
+    <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/images/20241105_fig2.jpeg?raw=true" width="40%" align="center"/>
+<br>
+
 **PALESTRA: Relato de Experiência : Desenvolvendo e implementando intervenções nutricionais em nível comunitário.**
 > **Público alvo: PROFESSORES**
-> 13/11 – 11h (Brasil)  
-> Aguarde aqui o link da [webconferência]
+> 13/11 – 11h (Brasil)
+> Professores: **Karina Dantas Coelho, Monica Spinelli e Rosana Farah** 
+> Aguarde aqui o link da [webconferência](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTg3NWE5YWEtYjkxOS00Y2IwLWFiNmEtYzE3YTc1NWJmMzY3%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%2228f4b02a-282a-47ff-bfc4-cfbf8f9e4978%22%7d)
 
 <br>
 
