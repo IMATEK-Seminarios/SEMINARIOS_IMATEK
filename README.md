@@ -33,6 +33,10 @@
 
 <br>
 
+> [EBook Aproveitamento Integral dos Alimentos](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Ebook%20Aproveitamento%20Integral%20dos%20Alimentos%20-%20Nutric%CC%A7a%CC%83o%202024.2.pdf)
+
+<br>
+
 <p>
     <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/images/20241105_fig3.jpeg?raw=true" width="20%" align="center"/></p>
   <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/images/20241105_fig1.jpeg?raw=true" width="40%" align="center"/>
