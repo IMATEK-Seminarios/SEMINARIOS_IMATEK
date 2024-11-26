@@ -33,7 +33,10 @@
 
 > ONLINE (GRAVADO)
 
-> Professores: diversos colaboradores
+> Autores:
+>> * Prof. Bruno Aquino, Profa. Susi Fernandes (professores)
+>> * Anna Beatriz, Bruna Cardoso, Caroline Machado, Suie Matias e Yasmin Schmidt (alunas)
+
 
 <br>
 
