@@ -25,10 +25,33 @@
 <br>
 <br>
 
+**MINICURSO (ONLINE): FISIOTERAPIA PARA PACIENTES COM DOENÇAS CRÔNICAS**
+
+> Fisioterapia para pacientes com doenças crônicas (como Hipertensão e Diabetes) em contextos de recursos limitados
+
+> **Público alvo: ALUNOS e PROFESSORES**
+
+> ONLINE (GRAVADO)
+
+> Professores: diversos colaboradores
+
+<br>
+
+> Link [vídeo](https://mackenzie365-my.sharepoint.com/:v:/g/personal/1115665_mackenzie_br/Eeu2W5v9yUJEmC-o1lN9SCsBZVcjmmS-tZjg0kcpykYDjg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bv4Wqb)
+
+> Link [slides](https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/Fisioterapia%20para%20pacientes%20com%20doen%C3%A7as%20cr%C3%B4nicas%20em%20contextos%20de%20recursos%20limitados.pdf)
+
+<br>
+<br>
+
 **WORKSHOP: Aproveitamento integral dos alimentos: como manter uma dieta balanceada com alimentos acessíveis**
+
 > **Público alvo: ALUNOS**
+
 > 05/11 – 11h (Brasil)
+
 > Professores: **Profa Ana Cristina M. Moreira Cabral e Profa Karina Dantas Coelho**
+
 > Aguarde aqui o link da [webconferência](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjAxZDcxNGUtMzE4Yi00NzhjLTliNTktZTQxZWYzMzMwOWFl%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%2228f4b02a-282a-47ff-bfc4-cfbf8f9e4978%22%7d)
 
 <br>
@@ -46,9 +69,13 @@
 <br>
 
 **PALESTRA: Relato de Experiência : Desenvolvendo e implementando intervenções nutricionais em nível comunitário.**
+
 > **Público alvo: PROFESSORES**
+
 > 13/11 – 11h (Brasil)
+
 > Professores: **Karina Dantas Coelho, Monica Spinelli e Rosana Farah** 
+
 > Aguarde aqui o link da [webconferência](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTg3NWE5YWEtYjkxOS00Y2IwLWFiNmEtYzE3YTc1NWJmMzY3%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%2228f4b02a-282a-47ff-bfc4-cfbf8f9e4978%22%7d)
 
 <br>
@@ -56,15 +83,8 @@
 <p>
     <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/images/encontro21.jpg?raw=true" width="20%" align="center"/>
   <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/images/encontro22.jpg?raw=true" width="20%" align="center"/>
-<br>
 
 <br>
-
-**MINI CURSO (online assíncrono): Fisioterapia para pacientes com doenças crônicas (Ex. Hipertensão e Diabetes) em contextos de recursos limitados**
-> **Público alvo: PROFESSORES e ALUNOS**
-> Disponível a partir de 31/10   
-> Aguarde aqui o link da [acessar os materiais] **(slides, áudios e vídeos)**
-
 <br>
 <br>
 <br>
