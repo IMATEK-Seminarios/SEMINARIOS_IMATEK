@@ -81,7 +81,7 @@
 
   - **24/06 – 11h (Brasil)**
 
-  - Palestrante: **Prof.ª Dra. BRUNA BALLAROTTI** (Médica Hosp Santa Casa de Misericórdia São Paulo e Profa. Fac Medicina UPM Mackenzie)
+  - Palestrante: **Prof.ª Dra. BRUNA BALLAROTTI** ((Médica de Família e Comunidade e Profa. Fac Medicina UPM Mackenzie)
 
   - Link apresentação: *a definir* | Link de materiais: *a definir*
     
