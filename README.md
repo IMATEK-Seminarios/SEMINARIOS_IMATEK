@@ -75,18 +75,6 @@
 
 <br>
 
-***Título a definir***
-
-  - Público-alvo: Alunos e Professores
-
-  - **10/06 - Terça-Feira – 11h (Brasil)**
-
-  - Palestrante: *a definir* 
-
-  - Link apresentação: *a definir* | Link de materiais: *a definir*
-
-<br>
-
 ***Título a definir (Saúde da Família e Comunidade)***
 
   - Público-alvo: Alunos e Professores
