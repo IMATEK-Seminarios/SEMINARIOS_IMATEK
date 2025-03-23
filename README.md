@@ -8,20 +8,23 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 <p>
   <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/images/seminarios_title.png" width="92%" align="center"/>
 </p>
 
 <br>
+<br>
 
-## Programação 1º Semestre 2025
+<p>
+  <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/images/fotos_bolhas.png?raw=true" width="40%" align="right"/>
+</p>
 
 <br>
+<br>
+
+### Programação 1º Semestre 2025
+
 <br>
 
 **FISIOTERAPIA APLICADA AO PACIENTE COM DESNUTRIÇÃO GRAVE**
