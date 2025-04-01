@@ -15,6 +15,7 @@
 
 <br>
 <br>
+<br>
 
 <p>
   <img src="https://github.com/IMATEK-Seminarios/SEMINARIOS_2024/blob/main/images/fotos_bolhas.png?raw=true" width="40%" align="right"/>
@@ -22,16 +23,36 @@
 
 <br>
 <br>
+<br>
 
 ### Programação 1º Semestre 2025
 
 <br>
+<br>
 
-**FISIOTERAPIA APLICADA AO PACIENTE COM DESNUTRIÇÃO GRAVE**
+Palestra: **USO DE SUPLEMENTOS E PRODUTOS NATURAIS**
 
-  - Público-alvo: Alunos e Professores
+  - **15/04 - Terça-Feira – 11h (Brasil)** | Público-alvo: Alunos e Professores | Duração: ~1h
 
-  - **15/04 - Terça-Feira – 11h (Brasil)**
+  - Palestrante: **Prof.ª Dra. AMOUNI MOHMOUD MOURAD** (Prof.ª Farmácia UPM Mackenzie)
+
+  - Link apresentação: *a definir* | Link de materiais: *a definir*
+
+<br>
+
+Palestra: **DIETA E LONGEVIDADE: O PAPEL DA ALIMENTAÇÃO NA QUALIDADE DE VIDA.**
+
+  - **29/04 - Terça-Feira – 11h (Brasil)** | Público-alvo: Alunos e Professores | Duração: ~1h 
+
+  - Palestrante: **Prof.ª Dra. LUANA ROMÃO** (Prof.ª Nutrição UPM Mackenzie)
+
+  - Link apresentação: *a definir* | Link de materiais: *a definir*
+
+<br>
+
+Palestra: **FISIOTERAPIA APLICADA AO PACIENTE COM DESNUTRIÇÃO GRAVE**
+
+  - **12/05 - Segunda-Feira – 11h (Brasil)** | Público-alvo: Alunos e Professores | Duração: ~1h 
 
   - Palestrante: **Prof. Dr. BRUNO AQUINO** (Prof. Fisioterapia UPM Mackenzie)
 
@@ -39,23 +60,9 @@
 
 <br>
 
-**HÁBITOS ALIMENTARES QUE INFLUENCIAM NA LONGEVIDADE E QUALIDADE DE VIDA, DESDE A INFÂNCIA.**
+Palestra: **DETECÇÃO PRECOCE DO TRANSTORNO DO ESPECTRO AUTISTA - SINAIS DE ALERTA NA PRIMEIRA INFÂNCIA**
 
-  - Público-alvo: Alunos e Professores
-
-  - **29/04 - Terça-Feira – 11h (Brasil)**
-
-  - Palestrante: **Prof.ª Dra. ANA PAULA BAZANELLI** (Prof.ª Nutrição UPM Mackenzie)
-
-  - Link apresentação: *a definir* | Link de materiais: *a definir*
-
-<br>
-
-**IDENTIFICAÇÃO DE DOENÇAS DO DISTÚRBIO DO DESENVOLVIMENTO NA INFÂNCIA**
-
-  - Público-alvo: Alunos e Professores
-
-  - **13/05 - Terça-Feira – 11h (Brasil)**
+  - **13/05 - Terça-Feira – 11:30h (Brasil)** | Público-alvo: Alunos e Professores | Duração: ~1h 
 
   - Palestrante: **Prof.ª Dra. ANA ALEXANDRA CALDAS OSÓRIO** (LAB INFÂNCIA E ADOLESCÊNCIA UPM Mackenzie)
 
@@ -63,25 +70,21 @@
 
 <br>
 
-***Título a definir (Cuidados e Prevenção de Diarréicas)***
+Palestra: **CUIDADOS E PREVENÇÃO DE DIARRÉICAS**
 
-  - Público-alvo: Alunos e Professores
+  - **29/05 - Terça-Feira – 11h (Brasil)** | Público-alvo: Alunos e Professores | Duração: ~1h 
 
-  - **29/05 - Terça-Feira – 11h (Brasil)**
-
-  - Palestrante: **Prof.ª Dra. ALESSANDRA LUCCHESI** (Médica Hosp Santa Casa de Misericórdia São Paulo)
+  - Palestrante: **Prof.ª Dra. ALESSANDRA LUCCHESI** (Diretora da Divisão de doenças de transmissão Hidrica e alimentar na secretaria de estado da saúde de São Paulo)
 
   - Link apresentação: *a definir* | Link de materiais: *a definir*
 
 <br>
 
-***Título a definir (Saúde da Família e Comunidade)***
+Palestra: **SAÚDE DA FAMÍLIA E COMUNIDADE**
 
-  - Público-alvo: Alunos e Professores
+  - **24/06 – Terça-Feira – 11h (Brasil)** | Público-alvo: Alunos e Professores | Duração: ~1h 
 
-  - **24/06 – 11h (Brasil)**
-
-  - Palestrante: **Prof.ª Dra. BRUNA BALLAROTTI** ((Médica de Família e Comunidade e Profa. Fac Medicina UPM Mackenzie)
+  - Palestrante: **Prof.ª Dra. BRUNA BALLAROTTI** (Médica de Família e Comunidade e Profa. Fac Medicina UPM Mackenzie)
 
   - Link apresentação: *a definir* | Link de materiais: *a definir*
     
