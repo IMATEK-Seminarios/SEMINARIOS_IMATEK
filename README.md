@@ -32,7 +32,7 @@
 
 Palestra: **USO DE SUPLEMENTOS E PRODUTOS NATURAIS**
 
-  - **15/04 - Terça-Feira – 11h (Brasil)** | Público-alvo: Alunos e Professores | Duração: ~1h
+  - **22/04 - Terça-Feira – 11h (Brasil)** | Público-alvo: Alunos e Professores | Duração: ~1h
 
   - Palestrante: **Prof.ª Dra. AMOUNI MOHMOUD MOURAD** (Prof.ª Farmácia UPM Mackenzie)
 
