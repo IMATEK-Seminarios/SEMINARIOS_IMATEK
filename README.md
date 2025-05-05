@@ -44,11 +44,10 @@ Palestra: **DIETA E LONGEVIDADE: O PAPEL DA ALIMENTAÇÃO NA QUALIDADE DE VIDA.*
 
   - **29/04 - Terça-Feira – 11h (Brasil)** | Público-alvo: Alunos e Professores | Duração: ~1h 
 
-  - Palestrante: **Prof.ª Dra. LUANA ROMÃO** (Prof.ª Nutrição UPM Mackenzie)
+  - Palestrante: **Prof.ª Dra. LUANA ROMÃO** (Prof.ª Nutrição UPM Mackenzie) e **LUANA MAIA** (discente Nutrição UPM Mackenzie)
 
-  - [Link Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTgxZjQ3MTUtZTQzYS00MDVhLWJjMDYtODVhNzRjMmQxNGU2%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%2228f4b02a-282a-47ff-bfc4-cfbf8f9e4978%22%7d)
-  - [Link de materiais](https://github.com/IMATEK-Seminarios/SEMINARIOS_IMATEK/blob/main/Palestra_20250429_Luana/Aula%20Angola%2029.04.pdf)
-  - [Link de fotos](https://github.com/IMATEK-Seminarios/SEMINARIOS_IMATEK/blob/main/Palestra_20250429_Luana)  
+  - [Link Vídeo-Conferência](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTgxZjQ3MTUtZTQzYS00MDVhLWJjMDYtODVhNzRjMmQxNGU2%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%2228f4b02a-282a-47ff-bfc4-cfbf8f9e4978%22%7d) | [Link de Material (Apresentação)](https://github.com/IMATEK-Seminarios/SEMINARIOS_IMATEK/blob/main/Palestra_20250429_Luana/Aula%20Angola%2029.04.pdf) |[Link de Fotos](https://github.com/IMATEK-Seminarios/SEMINARIOS_IMATEK/blob/main/Palestra_20250429_Luana)
+
 <br>
 
 Palestra: **FISIOTERAPIA APLICADA AO PACIENTE COM DESNUTRIÇÃO GRAVE**
