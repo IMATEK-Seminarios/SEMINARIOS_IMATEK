@@ -56,7 +56,7 @@ Palestra: **FISIOTERAPIA APLICADA AO PACIENTE COM DESNUTRIÇÃO GRAVE**
 
   - Palestrante: **Prof. Dr. BRUNO AQUINO** (Prof. Fisioterapia UPM Mackenzie)
 
-  - Link apresentação: *a definir* | Link de materiais: *a definir*
+  - [Link apresentação](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ZTU3MDUxMmItNDMwYS00Njc4LTg4YzEtNWQwNGU5MWJmNzEx%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252251da9440-4e5e-47b3-8e5c-4817f6f43c04%2522%252c%2522Oid%2522%253a%252260829b88-e287-4d43-9553-d805b270bfb8%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=f23188b3-7a72-4b90-9991-7db1fc2af13a&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true) | [Link de Material (Apresentação e Capítulo)](https://github.com/IMATEK-Seminarios/SEMINARIOS_IMATEK/blob/main/Palestra_20250512_Bruno)
 
 <br>
 
@@ -66,7 +66,7 @@ Palestra: **DETECÇÃO PRECOCE DO TRANSTORNO DO ESPECTRO AUTISTA - SINAIS DE ALE
 
   - Palestrante: **Prof.ª Dra. ANA ALEXANDRA CALDAS OSÓRIO** (LAB INFÂNCIA E ADOLESCÊNCIA UPM Mackenzie)
 
-  - Link apresentação: *a definir* | Link de materiais: *a definir*
+  - [Link apresentação](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzBlOTAwM2UtNTU3YS00NDZhLTk4N2MtMmNlN2JkNjlmNTk2%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%22e7fc012e-6f57-4879-9416-93179af90e74%22%7d) | Link de materiais: *a definir*
 
 <br>
 
