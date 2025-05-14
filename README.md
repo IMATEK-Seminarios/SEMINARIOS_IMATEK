@@ -66,7 +66,7 @@ Palestra: **DETECÇÃO PRECOCE DO TRANSTORNO DO ESPECTRO AUTISTA - SINAIS DE ALE
 
   - Palestrante: **Prof.ª Dra. ANA ALEXANDRA CALDAS OSÓRIO** (LAB INFÂNCIA E ADOLESCÊNCIA UPM Mackenzie)
 
-  - [Link apresentação](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzBlOTAwM2UtNTU3YS00NDZhLTk4N2MtMmNlN2JkNjlmNTk2%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%22e7fc012e-6f57-4879-9416-93179af90e74%22%7d) | Link de materiais: *a definir*
+  - [Link apresentação](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzBlOTAwM2UtNTU3YS00NDZhLTk4N2MtMmNlN2JkNjlmNTk2%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%22e7fc012e-6f57-4879-9416-93179af90e74%22%7d) | [Link da Aprensentação e outros Materiais](https://github.com/IMATEK-Seminarios/SEMINARIOS_IMATEK/tree/main/Palestra_20250513_Ana_Osorio) 
 
 <br>
 
