@@ -70,7 +70,7 @@ Palestra: **DETECÇÃO PRECOCE DO TRANSTORNO DO ESPECTRO AUTISTA - SINAIS DE ALE
 
 <br>
 
-Palestra: **CUIDADOS E PREVENÇÃO DE DIARRÉICAS**
+Palestra: **SURTO DE DOENÇAS DIARREICAS: DA DETECÇÃO À PREVENÇÃO**
 
   - **29/05 - Terça-Feira – 11h (Brasil)** | Público-alvo: Alunos e Professores | Duração: ~1h 
 
