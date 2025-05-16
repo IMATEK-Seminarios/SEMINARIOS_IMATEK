@@ -72,7 +72,7 @@ Palestra: **DETECÇÃO PRECOCE DO TRANSTORNO DO ESPECTRO AUTISTA - SINAIS DE ALE
 
 Palestra: **SURTO DE DOENÇAS DIARREICAS: DA DETECÇÃO À PREVENÇÃO**
 
-  - **29/05 - Terça-Feira – 11h (Brasil)** | Público-alvo: Alunos e Professores | Duração: ~1h 
+  - **29/05 - Quinta-Feira – 11h (Brasil)** | Público-alvo: Alunos e Professores | Duração: ~1h 
 
   - Palestrante: **Prof.ª Dra. ALESSANDRA LUCCHESI** (Diretora da Divisão de doenças de transmissão Hidrica e alimentar na secretaria de estado da saúde de São Paulo)
 
